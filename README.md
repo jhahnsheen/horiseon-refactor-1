@@ -13,4 +13,4 @@ An screenshot of the image can be found here:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/Assets/01-html-css-git-homework-demo.png)
 
-The live hosted link to the website can be found at 
+The live hosted link to the website can be found at https://jhahnsheen.github.io/horiseon-refactor-1/ or you can find the entire repo using [this link](https://github.com/jhahnsheen/horiseon-refactor-1).
